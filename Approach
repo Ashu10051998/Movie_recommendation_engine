@@ -1,0 +1,12 @@
+Importing libraries
+Importing Datasets
+Preprocessing Datasets like data cleaning, Feature Engineering
+Handling Missing Values
+Null Value Treatment
+Taking the subset of Dataset to make it less sparse
+Rating analysis
+Splitting the dataset into train and test dataset
+Building Popularity Recommender model
+Building collabrative filtering model
+Evaluation of Model
+Getting top K recommendation
